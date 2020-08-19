@@ -29,7 +29,7 @@ Tenho experiência com linguagens e ferramentas para o desenvolvimento web, algu
 
 > "Oportunidades não surgem. É você que as cria" – Chris Grosser
 
-### Redes Sociais
+### Redes Sociais :memo:
 
 Jorge Henrique – [@LinkedIn](https://www.linkedin.com/in/jorge-henrique-baptista/)
 Email: jorgehenrique@live.com
