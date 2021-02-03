@@ -1,4 +1,4 @@
-![Banner](http://atlasware.com.br/banner-github.png)
+![Banner](banner.png)
 
 ## Sobre 💬
 
